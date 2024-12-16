@@ -30,7 +30,6 @@ Key highlights of the IPL Dashboard:
 
 📉 Key Metrics: Win/loss records, consistent teams, standout players, and trends across seasons.
 
-Although static, this Excel dashboard provides valuable historical insights at a glance.
 
 
 ### 🎯 Purpose and Objectives
