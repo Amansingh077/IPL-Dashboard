@@ -17,6 +17,7 @@ This project features a static, non-dynamic Microsoft Excel dashboard that conso
 #### 🌟 Acknowledgements
 
 
+
 ### ✨ Features
 
 Key highlights of the IPL Dashboard:
@@ -30,6 +31,7 @@ Key highlights of the IPL Dashboard:
 📉 Key Metrics: Win/loss records, consistent teams, standout players, and trends across seasons.
 
 Although static, this Excel dashboard provides valuable historical insights at a glance.
+
 
 ### 🎯 Purpose and Objectives
 
@@ -45,6 +47,7 @@ Provide an easy-to-use tool to analyze trends in team and player performances.
 Present key statistics and venue-based outcomes visually.
 
 
+
 ### 🚀 Future Scope
 
 Enhancements planned for the project include:
@@ -56,6 +59,7 @@ Enhancements planned for the project include:
 📊 Advanced Tools: Transitioning to Power BI for richer visualizations and interactivity.
 
 🤖 Predictive Analytics: Forecasting team and player performances using historical data.
+
 
 
 ### 🌟 Acknowledgements
